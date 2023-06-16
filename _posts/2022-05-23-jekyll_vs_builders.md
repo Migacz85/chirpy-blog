@@ -6,9 +6,9 @@ tags: [jekyl, wix, webflow]
 author: marcin
 ---
 
-# Creating a Website with Jekyll Markdown
 
-Are you looking to create a website but unsure where to start? In this article, we will explore the power of Jekyll Markdown and compare it to popular website builders like Wix and Webflow. By the end, you'll have a clear understanding of the pros and cons of each option and be ready to embark on your website creation journey.
+Are you looking to create a website but unsure where to start? 🤔 In this article, we will explore the power of Jekyll Markdown and compare it to popular website builders like Wix and Webflow. By the end, you'll have a clear understanding of the pros and cons of each option and be ready to embark on your website creation journey.
+
 
 ## Jekyll Markdown: The Power of Simplicity
 
