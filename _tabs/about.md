@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 ## Introduction
 
 Hey there! 👋 My name is Marcin, and I'm a tech enthusiast who loves to play with various technologies. I'm always curious about how things work and enjoy diving deep into coding using different web languages. But you know what? My absolute favorite pick is **Python**! 🐍 It's such a versatile language that allows me to bring my ideas to life.

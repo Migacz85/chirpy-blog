@@ -4,11 +4,17 @@ date: 2022-05-23 12:00:00 -5000
 categories: [web developing]
 tags: [jekyl, wix, webflow]
 author: marcin
+image:
+    path: https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    alt: Create your own webspace 
 ---
 
 
 Are you looking to create a website but unsure where to start? 🤔 In this article, we will explore the power of Jekyll Markdown and compare it to popular website builders like Wix and Webflow. By the end, you'll have a clear understanding of the pros and cons of each option and be ready to embark on your website creation journey.
 
+[]()
+
+![Destkop View](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){: .right width="300"} 
 
 ## Jekyll Markdown: The Power of Simplicity
 
