@@ -1,6 +1,6 @@
 ---
 title:  Creating a Website with Jekyll Markdown vs Website Builders
-date: 2022-05-23 12:00:00 -5000
+date: 2023-06-17 12:00:00 -5000
 categories: [web developing]
 tags: [jekyl, wix, webflow]
 author: marcin

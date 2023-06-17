@@ -5,8 +5,8 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: https://blog.webtool.page
-# baseurl: 
+# baseurl: https://blog.webtool.page
+baseurl: 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -27,8 +27,7 @@ description: >- # used by seo meta and the atom feed
   A blog that is focused on tech
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-# url: "https://migacz85.github.io"
-url: "https://blog.webtool.page"
+url: "https://migacz85.github.io"
 
 github:
   username: migacz85 # change to your github username
@@ -55,7 +54,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-XMS8LGQYPR # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
