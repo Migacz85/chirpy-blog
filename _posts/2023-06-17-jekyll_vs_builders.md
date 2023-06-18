@@ -14,8 +14,6 @@ Are you looking to create a website but unsure where to start? 🤔 In this arti
 
 []()
 
-![Destkop View](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){: .right width="300"} 
-
 ## Jekyll Markdown: The Power of Simplicity
 
 Jekyll is a static site generator that allows you to build websites using Markdown, a lightweight markup language. Markdown provides an easy-to-read and easy-to-write syntax that is converted to HTML behind the scenes. Here are some of the benefits of using Jekyll Markdown:

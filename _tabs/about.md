@@ -6,7 +6,7 @@ order: 4
 
 
 
-![Marcin ](https://pbs.twimg.com/profile_images/1670017726524407808/X9-l0J6Z_400x400.jpg){: .right width="300"}
+![Marcin ](https://pbs.twimg.com/profile_images/1670017726524407808/X9-l0J6Z_400x400.jpg){: .right width="414"}
 
 Hey there! 👋 My name is Marcin, and I'm a tech enthusiast who loves to play with various technologies. I'm always curious about how things work and enjoy diving deep into coding using different web languages. But you know what? My absolute favorite pick is **Python**! 🐍 It's such a versatile language that allows me to bring my ideas to life.
 
