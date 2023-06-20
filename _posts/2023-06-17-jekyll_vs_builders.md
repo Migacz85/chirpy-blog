@@ -35,6 +35,7 @@ Wix is a beginner-friendly website builder that allows you to create stunning we
 - Limited customization options
 - Relies on server-side processing, potentially slower loading times
 - Difficult to migrate to other platforms
+- Can be pricey in the long run
 {: .prompt-warning }
 
 ### 2. Webflow
@@ -54,6 +55,7 @@ Webflow is a powerful website builder that offers more control and customization
 - Steeper learning curve compared to Wix
 - Pricing plans can be expensive for advanced features
 - Limited third-party integrations compared to other platforms
+- Can be pricey in the long run
 {: .prompt-warning }
 
 ## Choosing the Right Option for You
