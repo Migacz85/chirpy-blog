@@ -10,25 +10,8 @@ image:
 ---
 
 
-Are you looking to create a website but unsure where to start? 🤔 In this article, we will explore the power of Jekyll Markdown and compare it to popular website builders like Wix and Webflow. By the end, you'll have a clear understanding of the pros and cons of each option and be ready to embark on your website creation journey.
-
-[]()
-
-## Jekyll Markdown: The Power of Simplicity
-
-Jekyll is a static site generator that allows you to build websites using Markdown, a lightweight markup language. Markdown provides an easy-to-read and easy-to-write syntax that is converted to HTML behind the scenes. Here are some of the benefits of using Jekyll Markdown:
-
-### 1. Simplicity and Speed
-
-Jekyll Markdown offers a simple and intuitive way to create content for your website. With its clean syntax, you can focus on writing your content without getting distracted by complex code. This simplicity also translates into faster website loading times since Jekyll generates static HTML files, eliminating the need for server-side processing.
-
-### 2. Version Control and Collaboration
-
-Since Jekyll uses Markdown files, you can easily manage your website's content using version control systems like Git. This allows you to track changes, collaborate with others, and revert back to previous versions if needed. It's an excellent choice for developers who prefer working with code and want to maintain a structured development workflow.
-
-### 3. Customization and Flexibility
-
-Jekyll Markdown provides a wide range of themes and templates that you can customize to fit your needs. Whether you're building a personal blog or a corporate website, Jekyll offers flexibility in design and layout. You have full control over the structure and style of your website, giving you the freedom to create a unique online presence.
+Are you looking to create a website but unsure where to start? 🤔 In this article, we will explore the power of website builders like Wix and Webflow. Altough I'm not the biggest fan of using this tools for users with no coding skills they can be really usefull. The 
+blog you are in right now was build using Jekyll. The website is completely static and don't have any databse which make it super quick and accessible and easy to adminstrate. However you need to have some level of expertise if you want to use this kind of technology. By the end, you'll have a clear understanding of the pros and cons of each option and be ready to embark on your website creation journey.
 
 ## Website Builders: Wix and Webflow
 
@@ -39,30 +22,39 @@ While Jekyll Markdown offers simplicity and control, website builders like Wix a
 Wix is a beginner-friendly website builder that allows you to create stunning websites without any coding knowledge. Here are the pros and cons of using Wix:
 
 **Pros:**
+
+>
 - Intuitive drag-and-drop interface
 - Wide variety of templates and designs
 - Built-in e-commerce functionality
 - Hosting and domain management included
+{: .prompt-tip }
 
 **Cons:**
+>
 - Limited customization options
 - Relies on server-side processing, potentially slower loading times
 - Difficult to migrate to other platforms
+{: .prompt-warning }
 
 ### 2. Webflow
 
 Webflow is a powerful website builder that offers more control and customization compared to Wix. Here's what you need to know about Webflow:
 
 **Pros:**
+>
 - Designer-friendly interface with advanced options
 - Ability to export code for further customization
 - Responsive design capabilities
 - Integrated content management system (CMS)
+{: .prompt-tip }
 
 **Cons:**
+>
 - Steeper learning curve compared to Wix
 - Pricing plans can be expensive for advanced features
 - Limited third-party integrations compared to other platforms
+{: .prompt-warning }
 
 ## Choosing the Right Option for You
 
