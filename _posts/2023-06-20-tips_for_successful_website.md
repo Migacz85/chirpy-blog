@@ -6,7 +6,7 @@ tags: [tips webstie, succesfful website]
 author: marcin
 image:
     path: https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-    alt: Create your own webspace 
+    alt: 
 ---
 
 

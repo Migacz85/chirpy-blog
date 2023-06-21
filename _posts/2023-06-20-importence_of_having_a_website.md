@@ -1,12 +1,12 @@
 ---
-title: Importence of having a website 
+title: Importence of Having a Website 
 date: 2023-06-18 12:00:00 -5000
 categories: [web developing]
 tags: [benefits of website  ]
 author: marcin
 image:
-    path: https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-    alt: Create your own webspace 
+    path: https://images.pexels.com/photos/6457521/pexels-photo-6457521.jpeg
+    alt: 
 ---
 
 ## Reasons to Have Your Own Website
