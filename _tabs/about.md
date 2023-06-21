@@ -24,7 +24,6 @@ I consider myself an individual who understands how different technologies stack
 However even after understanding all that, I'm still not satisfied. I'm constantly fueled by curiosity and strive to expand my knowledge further. The tech world is ever-evolving, and I'm always up for new challenges and exciting discoveries.
 
 
->Feel free to reach out if you think we can build a project for you 😄✨
-{: .prompt-tip }
+**Feel free to reach out if you think we can build a project for you 😄✨**
 
 
