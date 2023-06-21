@@ -5,7 +5,7 @@ categories: [web developing]
 tags: [benefits of website  ]
 author: marcin
 image:
-    path: https://images.pexels.com/photos/6457521/pexels-photo-6457521.jpeg
+    path: https://images.pexels.com/photos/6457521/pexels-photo-6457521.jpeg?auto=compress&cs=tinysrgb&w=1600  
     alt: 
 ---
 
