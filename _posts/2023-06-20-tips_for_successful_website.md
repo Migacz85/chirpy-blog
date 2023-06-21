@@ -56,22 +56,6 @@ Fast-loading websites are crucial for user satisfaction and search engine rankin
 
 ### 6. Call to Action
 
-A call to action (CTA) guides visitors towards desired actions, helping you achieve your website's goals. Here's how you can create
-
-- Utilize responsive design: Design your website to adapt seamlessly to different screen sizes, orientations, and resolutions, providing a consistent user experience across devices.
-- Optimize loading speed: Mobile users are often on-the-go and have limited patience for slow-loading websites. Compress images, minimize code, and enable caching to enhance your site's performance.
-- Simplify navigation for smaller screens: Use hamburger menus or collapsible navigation bars to save space while still allowing users to access all sections of your website.
-
-### 5. Fast Loading Times
-
-Fast-loading websites are crucial for user satisfaction and search engine rankings. Implement the following techniques to improve your site's loading speed:
-
-- Optimize image files: Compress images without compromising quality. Use appropriate formats (JPEG for photos, PNG for graphics) and resize images to their display size on your website.
-- Minimize HTTP requests: Reduce the number of elements on each page that require separate requests to the server, such as scripts and stylesheets.
-- Enable browser caching: Leverage browser caching to store certain website files on visitors' devices, reducing the need to download them on subsequent visits.
-
-### 6. Call to Action
-
 A call to action (CTA) guides visitors towards desired actions, helping you achieve your website's goals. Here's how you can create effective CTAs:
 
 - Use clear and compelling language: Clearly communicate what action you want users to take and emphasize the benefits they will receive.
@@ -96,7 +80,6 @@ If you're looking to create a website, there are several user-friendly platforms
 - Wix 📷
 - Squarespace 🧱
 - Weebly 🌈
-- or... hiring skilled web-developer 
 
 >Of course the best solution is to hire someone with expertise like me before deciding of any of above chocies. 😀 
 {: .prompt-tip }

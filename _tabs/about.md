@@ -17,7 +17,7 @@ I have extensive knowledge and experience in coding websites, but you know what 
 In 2013, I proudly acquired a **Master's Degree in Computer Science**. It was an exciting journey, but my thirst for knowledge didn't stop there! In third quater of 2023, I completed my second Bachelor's degree in **Artificial Intelligence** at CCT College Dublin. 🤖 During my AI studies, I got explored Machine Learning and learned how to use a variety of ML models in practical applications.
 
 ![art](https://drive.webtool.page/index.php/s/r3dZL3moCnf6tYG/preview)
-_I'm also the redactor of webcraft.ninja_
+_I'm also the admin of webcraft.ninja_
 
 I consider myself an individual who understands how different technologies stack up, from the lowest OSI layers to the most advanced application layers. It's like navigating through a maze of interconnected awesomeness! 🧩
 
