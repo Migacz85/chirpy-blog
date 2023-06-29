@@ -48,6 +48,7 @@ Search engine optimization (SEO) plays a vital role in improving your website's 
 
 ![Mobile](https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){: .left width="414" }
 
+
 With the increasing use of smartphones and tablets, ensuring your website is mobile-friendly is essential. Follow these tips to enhance the mobile experience for your visitors:
 
 - Utilize responsive design: Design your website to adapt seamlessly to different screen sizes, orientations, and resolutions, providing a consistent user experience across devices.
